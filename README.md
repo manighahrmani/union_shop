@@ -162,7 +162,7 @@ The table below is an almost comprehensive list of features present on the websi
 ⚠️ Note that this assessment focuses on functionality over visual design (do not spend a lot of time making it look exactly like the real website). You do not have to list the exact same products or collections as the real website. You are also encouraged to use copyright-free or AI-generated images instead of downloading images from the real website.
 
 | Feature | Description | Marks (%) | Reference |
-|---------|-------------|-----------|-----------|
+| --------- | ------------- | ----------- | ----------- |
 | **Basic (40%)** | | | |
 | Static Homepage | Homepage layout and widgets with static content (hardcoded data* acceptable, mobile view focus) | 5% | [Homepage](https://shop.upsu.net/) |
 | Static Navbar | Top navigation bar with menu (links do not have to work at this stage, mobile view focus) | 5% | [Homepage](https://shop.upsu.net/) |
@@ -203,7 +203,7 @@ In addition to functionality, you will be assessed on your software development 
 The table below outlines the aspects that will be evaluated and the mark (from the 25%) allocated to each:
 
 | Aspect | Description | Marks (%) |
-|--------|-------------|-----------|
+| -------- | ------------- | ----------- |
 | Git | Regular, small, meaningful commits* to your repository throughout development; clear commit messages | 8% |
 | README | A comprehensive, well-formatted and accurate README file* (delete the current README file first) | 5% |
 | Testing | Tests covering all or almost all of the application; passing tests | 6% |
